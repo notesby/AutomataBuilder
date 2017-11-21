@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_step_1"
+            android:icon="@drawable/ic_grid_on_black_24dp"
+            android:enabled="true"
+            android:title="1. Grid" />
+        <item
+            android:id="@+id/nav_step_2"
+            android:icon="@drawable/ic_grain_black_24dp"
+            android:enabled="false"
+            android:title="2. Entities" />
+        <item
+            android:id="@+id/nav_step_3"
+            android:icon="@drawable/ic_my_location_black_24dp"
+            android:enabled="false"
+            android:title="3. Entity Location" />
+        <item
+            android:id="@+id/nav_step_4"
+            android:icon="@drawable/ic_play_arrow_black_24dp"
+            android:enabled="false"
+            android:title="4. Finish" />
+    </group>
+</menu>
