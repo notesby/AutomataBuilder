@@ -16,4 +16,8 @@
     <string name="hint_height">Height</string>
     <string name="hint_width">Width</string>
     <string name="placeholder_cell_name">Cell name</string>
+    <string name="title_activity_new_brain">NewBrainActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
 </resources>

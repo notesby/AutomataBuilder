@@ -3,7 +3,6 @@ package com.justforfun.automatabuilder.task;
 import android.os.AsyncTask;
 
 import com.justforfun.automatabuilder.callback.DaoTaskCallback;
-import com.justforfun.automatabuilder.model.Cell;
 import com.justforfun.automatabuilder.model.config.CellConfig;
 import com.justforfun.automatabuilder.provider.CellProvider;
 

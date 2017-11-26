@@ -1,10 +1,8 @@
 package com.justforfun.automatabuilder.provider;
 
 import android.arch.lifecycle.LiveData;
-import android.arch.lifecycle.MutableLiveData;
 
 import com.justforfun.automatabuilder.dao.PlanetConfigDao;
-import com.justforfun.automatabuilder.model.Planet;
 import com.justforfun.automatabuilder.model.config.PlanetConfig;
 
 import java.util.List;

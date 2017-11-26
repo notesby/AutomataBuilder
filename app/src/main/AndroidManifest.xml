@@ -25,7 +25,11 @@
             android:label="@string/title_activity_configuration"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".activities.newplanet.NewPlanetActivity" />
-        <activity android:name=".activities.newcell.NewCellActivity"></activity>
+        <activity android:name=".activities.newcell.NewCellActivity" />
+        <activity
+            android:name=".activities.newbrain.NewBrainActivity"
+            android:label="@string/title_activity_new_brain"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
